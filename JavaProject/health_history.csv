@@ -1,0 +1,10 @@
+timestamp,endpoint,method,status_code,response_time_ms,result,detail
+"2026-09-18T22:04:36.6106476+05:30","https://google.com",GET,200,882,PASS,"OK"
+"2026-09-18T22:04:37.6126795+05:30","https://google.com",GET,200,361,PASS,"OK"
+"2026-09-18T22:04:38.6120768+05:30","https://google.com",GET,200,284,PASS,"OK"
+"2026-09-18T22:04:39.6118869+05:30","https://google.com",GET,200,279,PASS,"OK"
+"2026-09-18T22:04:40.6115842+05:30","https://google.com",GET,200,306,PASS,"OK"
+"2026-09-18T22:36:47.9587053+05:30","https://google.com",GET,200,1388,PASS,"OK"
+"2026-09-18T22:36:52.9595439+05:30","https://google.com",GET,200,393,PASS,"OK"
+"2026-09-18T22:36:57.9594087+05:30","https://google.com",GET,200,468,PASS,"OK"
+"2026-09-18T22:37:02.959405+05:30","https://google.com",GET,200,410,PASS,"OK"
